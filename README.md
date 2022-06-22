@@ -1,4 +1,4 @@
-# Example for masoniteorm issue: `QueryBuilder created with new_from_builder() use the same references as the builder it is created from #682`
+## Example for masoniteorm issue: `QueryBuilder created with new_from_builder() use the same references as the builder it is created from #682`
 
 ### Run database
 ```
